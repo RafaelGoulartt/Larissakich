@@ -2,7 +2,9 @@
 
 **`Desenvolvedora FullStack`**
 
-Me chamo Larissa Vitória Kich, tenho 20 anos e sou natural do Rio Grande do Sul. Concluí o ensino médio no IFRS, com o curso técnico em informática. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na PUCRS. Sou apaixonada por tecnologia e compartilho meu conhecimento através do meu canal no YouTube "[Larissa Kich](https://www.youtube.com/@larissakich)", onde ensino a criar projetos web, e também através do Instagram, com o perfil chamado "[Dev em Dev](https://www.instagram.com/dev_em_dev/)".
+Me chamo Rafael Goulart e sou da área de tecnologia da informação. Concluí o curso técnico em TI, onde tive meu primeiro contato mais aprofundado com programação e desenvolvimento de sistemas. Atualmente, atuo na área de desenvolvimento e suporte, trabalhando com tecnologias como ASP clássico, SQL Server, JavaScript e outras ferramentas voltadas para desenvolvimento web.
+
+
 
 <p align="left">
     <a href="https://www.youtube.com/@larissakich?sub_confirmation=1">
